@@ -1,1 +1,1 @@
-# demorepo
+# Just a demo repository
